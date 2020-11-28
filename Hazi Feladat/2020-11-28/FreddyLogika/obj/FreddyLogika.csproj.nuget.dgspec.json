@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Archived\\CSharpGyakorlas\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj": {}
+    "C:\\Visual studio\\CSharpGyakorlas2020-2021\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj": {}
   },
   "projects": {
-    "F:\\Archived\\CSharpGyakorlas\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj": {
+    "C:\\Visual studio\\CSharpGyakorlas2020-2021\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Archived\\CSharpGyakorlas\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj",
+        "projectUniqueName": "C:\\Visual studio\\CSharpGyakorlas2020-2021\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj",
         "projectName": "FreddyLogika",
-        "projectPath": "F:\\Archived\\CSharpGyakorlas\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj",
-        "packagesPath": "C:\\Users\\Szabó Attila\\.nuget\\packages\\",
-        "outputPath": "F:\\Archived\\CSharpGyakorlas\\Hazi Feladat\\2020-11-28\\FreddyLogika\\obj\\",
+        "projectPath": "C:\\Visual studio\\CSharpGyakorlas2020-2021\\Hazi Feladat\\2020-11-28\\FreddyLogika\\FreddyLogika.csproj",
+        "packagesPath": "C:\\Users\\samu1\\.nuget\\packages\\",
+        "outputPath": "C:\\Visual studio\\CSharpGyakorlas2020-2021\\Hazi Feladat\\2020-11-28\\FreddyLogika\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Szabó Attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

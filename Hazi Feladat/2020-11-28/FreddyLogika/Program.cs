@@ -9,6 +9,7 @@ namespace FreddyLogika
         {
             while (true)
             {
+                //
                 Thread.Sleep(1000);
                 Console.WriteLine("Freddy gondolkodik...");
             }
