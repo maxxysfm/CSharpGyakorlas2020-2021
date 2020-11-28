@@ -40,8 +40,11 @@ namespace CSharpValtozokIsmetles
             Console.WriteLine(false || true);
             Console.WriteLine(true || false);
             Console.WriteLine(false || false);
-
-            Console.WriteLine("INT operátorok");
+            
+            /////////////////////////////////////
+            //////////  INT operátorok //////////
+            /////////////////////////////////////
+            
             // Nem inicializált int szám
             int egyUresSzam = new int();
 
@@ -157,10 +160,45 @@ namespace CSharpValtozokIsmetles
             }
 
             /////////////// ////////// //////////////////
-            /////////////// Ciklusok   //////////////////
+            ///////////////  Ciklusok   /////////////////
             /////////////// ////////// //////////////////
-            
 
+            int meddigTart = 0;
+            
+            // Csak akkor fut le a while ciklus, ha a feltétel igaz
+            while (meddigTart <=5)
+            {
+                Console.WriteLine("Tart a ciklus");
+                meddigTart++;
+
+                // Ciklus addig tart, amíg nem hamis a feltétel
+            }
+
+            // do-while egyszer lefut mindenképp, utána csak akkor ismétlődik
+            // ha a feltétel igaz.
+
+            meddigTart = 0;
+            do
+            {
+                Console.WriteLine("Tart a ciklus");
+                meddigTart++;
+            } while (meddigTart <= 5);
+
+            // For ciklus, addig tart, amíg a középső "feltétel" igaz
+
+            // első érték, ciklus ideje alatt létrejövő számláló
+            // középsé érték: feltétel
+            // utolsó érték, a ciklus ismétlése során lefutó függvény
+            for (int i = 0; i < 15; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            int[] sokSzam = new int[5] {1,2,3,4,5};
+            foreach (int item in sokSzam)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

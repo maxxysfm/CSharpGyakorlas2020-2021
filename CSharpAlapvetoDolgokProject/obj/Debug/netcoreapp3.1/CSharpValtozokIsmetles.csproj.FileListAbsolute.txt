@@ -11,3 +11,16 @@ C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3
 C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
 C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
 C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.genruntimeconfig.cache
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.exe
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.deps.json
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.runtimeconfig.json
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.runtimeconfig.dev.json
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.csprojAssemblyReference.cache
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.csproj.CoreCompileInputs.cache
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.AssemblyInfoInputs.cache
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.AssemblyInfo.cs
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
+F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.genruntimeconfig.cache
