@@ -1,0 +1,13 @@
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.exe
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.deps.json
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.runtimeconfig.json
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.runtimeconfig.dev.json
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.csprojAssemblyReference.cache
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.AssemblyInfoInputs.cache
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.AssemblyInfo.cs
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
+C:\Users\Szabó Attila\source\repos\CSharpValtozokIsmetles\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.genruntimeconfig.cache
