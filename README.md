@@ -1,2 +1,2 @@
 # CSharpGyakorlas2020-2021
-CSharpGyakorlas
+Ide kell még írnom.
