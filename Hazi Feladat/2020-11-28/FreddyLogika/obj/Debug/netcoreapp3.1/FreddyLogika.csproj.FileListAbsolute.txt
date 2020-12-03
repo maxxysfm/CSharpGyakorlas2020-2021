@@ -23,3 +23,16 @@ C:\Visual studio\CSharpGyakorlas2020-2021\Hazi Feladat\2020-11-28\FreddyLogika\o
 C:\Visual studio\CSharpGyakorlas2020-2021\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.dll
 C:\Visual studio\CSharpGyakorlas2020-2021\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.pdb
 C:\Visual studio\CSharpGyakorlas2020-2021\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.genruntimeconfig.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\bin\Debug\netcoreapp3.1\FreddyLogika.exe
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\bin\Debug\netcoreapp3.1\FreddyLogika.deps.json
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\bin\Debug\netcoreapp3.1\FreddyLogika.runtimeconfig.json
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\bin\Debug\netcoreapp3.1\FreddyLogika.runtimeconfig.dev.json
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\bin\Debug\netcoreapp3.1\FreddyLogika.dll
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\bin\Debug\netcoreapp3.1\FreddyLogika.pdb
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.csprojAssemblyReference.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.csproj.CoreCompileInputs.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.AssemblyInfoInputs.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.AssemblyInfo.cs
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.dll
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.pdb
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-11-28\FreddyLogika\obj\Debug\netcoreapp3.1\FreddyLogika.genruntimeconfig.cache

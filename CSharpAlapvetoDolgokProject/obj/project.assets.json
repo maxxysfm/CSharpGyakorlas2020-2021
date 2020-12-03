@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Archived\\CSharpGyakorlas\\CSharpAlapvetoDolgokProject\\CSharpValtozokIsmetles.csproj",
+      "projectUniqueName": "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\CSharpAlapvetoDolgokProject\\CSharpValtozokIsmetles.csproj",
       "projectName": "CSharpValtozokIsmetles",
-      "projectPath": "F:\\Archived\\CSharpGyakorlas\\CSharpAlapvetoDolgokProject\\CSharpValtozokIsmetles.csproj",
+      "projectPath": "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\CSharpAlapvetoDolgokProject\\CSharpValtozokIsmetles.csproj",
       "packagesPath": "C:\\Users\\Szabó Attila\\.nuget\\packages\\",
-      "outputPath": "F:\\Archived\\CSharpGyakorlas\\CSharpAlapvetoDolgokProject\\obj\\",
+      "outputPath": "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\CSharpAlapvetoDolgokProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
