@@ -11,7 +11,7 @@ OOP:
   - Osztályok/láthatóság
   - Relációk
 - Önálló egyszerű asztali alkalmazás/játék fejlesztése
-- Verzió kezelés alapismeretek (Github)
+- Verzió kezelés alapismeretek (Github) :green_square:
 
 Sorrend:
 - Konzolos alkalmazások/játékok készítése.
