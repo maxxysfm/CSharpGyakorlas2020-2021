@@ -5,6 +5,7 @@ Témák amiket tanulni fogunk:
   - Elágazások :green_square:
   - Ciklusok :yellow_square:
   - Tömbök
+
 OOP:
   - Metódusok
   - Osztályok/láthatóság
