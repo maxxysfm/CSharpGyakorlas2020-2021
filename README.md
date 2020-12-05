@@ -1,11 +1,11 @@
 # C# Programozás 2020-2021
 Témák amiket tanulni fogunk:
 - C# alapok, Objektum Orientált Programozás alapjai
-  - Változók
-  - Elágazások
-  - Ciklusok
+  - Változók :green_square:
+  - Elágazások :green_square:
+  - Ciklusok :yellow_square:
   - Tömbök
-  OOP:
+OOP:
   - Metódusok
   - Osztályok/láthatóság
   - Relációk
