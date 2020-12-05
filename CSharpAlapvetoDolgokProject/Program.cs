@@ -16,7 +16,7 @@ namespace CSharpValtozokIsmetles
             // bool - A változó típusa
             // "valami" - A változó neve, amit mi látunk
             // = false - megadott alapvető érték
-            
+
             bool valami = false;
             bool valamiUres = new bool();
             valamiUres = false;
@@ -28,7 +28,7 @@ namespace CSharpValtozokIsmetles
 
             Console.WriteLine(valami == false);
             Console.WriteLine(valami == true);
-            
+
             // ÉS függvények //
             Console.WriteLine(true && true);
             Console.WriteLine(false && true);
@@ -40,11 +40,11 @@ namespace CSharpValtozokIsmetles
             Console.WriteLine(false || true);
             Console.WriteLine(true || false);
             Console.WriteLine(false || false);
-            
+
             /////////////////////////////////////
             //////////  INT operátorok //////////
             /////////////////////////////////////
-            
+
             // Nem inicializált int szám
             int egyUresSzam = new int();
 
@@ -69,7 +69,7 @@ namespace CSharpValtozokIsmetles
             // Stringek
             string nev = "attila szabo";
             Console.WriteLine(nev);
-            
+
             // String kiegészítése
             nev += "attila";
 
@@ -78,12 +78,12 @@ namespace CSharpValtozokIsmetles
 
             // Más értékek beleírása, pl.: számokat string-be.
             nev += Convert.ToString(9) + " szabó";
-            
+
             Console.WriteLine(nev);
             Console.WriteLine(nev.Contains("attila"));
             Console.WriteLine(nev.Contains(" "));
             Console.WriteLine(nev.Contains("balint"));
-            Console.WriteLine(nev.Substring(2,3));
+            Console.WriteLine(nev.Substring(2, 3));
             Console.WriteLine(nev.Length);
 
             // Kiírás objektumok szerint.
@@ -91,9 +91,9 @@ namespace CSharpValtozokIsmetles
             string megye = "Fejér";
             int szulEv = 1996;
 
-            Console.WriteLine("Név:{0} Megye:{1} Születési év:{2}",nevem,megye,szulEv);
+            Console.WriteLine("Név:{0} Megye:{1} Születési év:{2}", nevem, megye, szulEv);
             // Vagy + jelek és "" elválasztással.
-            Console.WriteLine("Név:"+ nevem + " Megye:" + megye + " Születési év:" + szulEv);
+            Console.WriteLine("Név:" + nevem + " Megye:" + megye + " Születési év:" + szulEv);
             // Vagy: $ használatával lehet írni így is.
             Console.WriteLine($"Név:{nevem} Megye:{megye} Születési év:{szulEv}");
 
@@ -119,7 +119,7 @@ namespace CSharpValtozokIsmetles
             bool feltetel1 = false;
             bool feltetel2 = false;
             bool feltetel3 = false;
-            
+
             if (feltetel1)
             {
                 //Ezeket az utasításokat akkor hajtjuk végre, ha a feltétel1 igaz
@@ -142,7 +142,7 @@ namespace CSharpValtozokIsmetles
             // Csak egy értéket vizsgál, míg else if elágazások több feltételt is vizsgálnak
 
             Random r = new Random();
-            int szamunk = r.Next(0,100+1);
+            int szamunk = r.Next(0, 100 + 1);
             switch (szamunk)
             {
                 case 0:
@@ -164,9 +164,9 @@ namespace CSharpValtozokIsmetles
             /////////////// ////////// //////////////////
 
             int meddigTart = 0;
-            
+
             // Csak akkor fut le a while ciklus, ha a feltétel igaz
-            while (meddigTart <=5)
+            while (meddigTart <= 5)
             {
                 Console.WriteLine("Tart a ciklus");
                 meddigTart++;
@@ -194,10 +194,32 @@ namespace CSharpValtozokIsmetles
                 Console.WriteLine(i);
             }
 
-            int[] sokSzam = new int[5] {1,2,3,4,5};
+            // Tömbök, "Array"
+            int[] sokSzam = new int[5] { 1, 2, 3, 4, 5 };
+            Console.WriteLine(sokSzam[0]);
+            Console.WriteLine(sokSzam[1]);
+
             foreach (int item in sokSzam)
             {
                 Console.WriteLine(item);
+            }
+
+            // 2 dimenziós tömb
+            int[,] sokSzam2D = new int[2, 5] { { 1, 2, 3, 4, 5 }, { 1, 2, 3, 4, 5 } };
+            Console.WriteLine(sokSzam2D[0,0]);
+            Console.WriteLine(sokSzam2D[1,4]);
+
+            // Legkisebb érték megkeresése
+            int[] szamokKeresesre = new int[6] { 50, 2, 502, 12, 8, 1 };
+            int min = szamokKeresesre[0];
+
+            // szamokKeresesre.Length = visszaadja, mennyi számból áll a tömb
+            for (int i = 0; i < szamokKeresesre.Length; i++)
+            {
+                if (min> szamokKeresesre[i])
+                {
+                    min = szamokKeresesre[i];
+                }
             }
         }
     }
