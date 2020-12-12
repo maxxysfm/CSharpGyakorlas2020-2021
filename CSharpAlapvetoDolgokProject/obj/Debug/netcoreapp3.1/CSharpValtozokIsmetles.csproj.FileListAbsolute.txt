@@ -24,3 +24,16 @@ F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\
 F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
 F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
 F:\Archived\CSharpGyakorlas\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.genruntimeconfig.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.exe
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.deps.json
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.runtimeconfig.json
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.runtimeconfig.dev.json
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\bin\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.csprojAssemblyReference.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.csproj.CoreCompileInputs.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.AssemblyInfoInputs.cache
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.AssemblyInfo.cs
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.dll
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.pdb
+F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\CSharpAlapvetoDolgokProject\obj\Debug\netcoreapp3.1\CSharpValtozokIsmetles.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Dynamic;
 
 namespace CSharpValtozokIsmetles
@@ -199,6 +200,11 @@ namespace CSharpValtozokIsmetles
             Console.WriteLine(sokSzam[0]);
             Console.WriteLine(sokSzam[1]);
 
+            // Sorrendbe rendezés
+            Array.Sort(sokSzam);
+            // Megfordítás
+            Array.Reverse(sokSzam);
+
             foreach (int item in sokSzam)
             {
                 Console.WriteLine(item);
@@ -221,6 +227,37 @@ namespace CSharpValtozokIsmetles
                     min = szamokKeresesre[i];
                 }
             }
+
+            // Lista
+            List<int> szamLista = new List<int>();
+            szamLista.Add(671);
+            szamLista.Add(15);
+
+            // Sorrendbe állítás
+            szamLista.Sort();
+            // lista megfordítása
+            szamLista.Reverse();
+
+            for (int i = 0; i < szamLista.Count; i++)
+            {
+                Console.WriteLine(szamLista[i]);
+            }
+            // vagy
+            foreach (int item in szamLista)
+            {
+                Console.WriteLine(item);
+            }
+
+            // Tuple
+            (int, string) tuple = (5, "Valami");
+            (int, string, bool) tuple2 = (5, "Valami",false);
+            Console.WriteLine(tuple.Item1);
+            Console.WriteLine(tuple.Item2);
+            Console.WriteLine(tuple2.Item3);
+
+            List<(int, string)> tupleList = new List<(int, string)>();
+            tupleList.Add((5,"valami"));
+            tupleList.Add((2,"valami2"));
         }
     }
 }
