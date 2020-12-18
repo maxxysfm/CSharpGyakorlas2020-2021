@@ -11,3 +11,16 @@ F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-12-
 F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.dll
 F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.pdb
 F:\Archived\CSharpGyakorlas\CSharpGyakorlas2020-2021\trunk\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.genruntimeconfig.cache
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\bin\Debug\netcoreapp3.1\HaziFeladat2.exe
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\bin\Debug\netcoreapp3.1\HaziFeladat2.deps.json
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\bin\Debug\netcoreapp3.1\HaziFeladat2.runtimeconfig.json
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\bin\Debug\netcoreapp3.1\HaziFeladat2.runtimeconfig.dev.json
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\bin\Debug\netcoreapp3.1\HaziFeladat2.dll
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\bin\Debug\netcoreapp3.1\HaziFeladat2.pdb
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.csprojAssemblyReference.cache
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.AssemblyInfoInputs.cache
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.AssemblyInfo.cs
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.csproj.CoreCompileInputs.cache
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.dll
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.pdb
+C:\Visual studio\CSharpGyakorlas2020-2021-vegso\Hazi Feladat\2020-12-05\HaziFeladat2\obj\Debug\netcoreapp3.1\HaziFeladat2.genruntimeconfig.cache

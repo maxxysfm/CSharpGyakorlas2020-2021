@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj": {}
+    "C:\\Visual studio\\CSharpGyakorlas2020-2021-vegso\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj": {}
   },
   "projects": {
-    "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj": {
+    "C:\\Visual studio\\CSharpGyakorlas2020-2021-vegso\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj",
+        "projectUniqueName": "C:\\Visual studio\\CSharpGyakorlas2020-2021-vegso\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj",
         "projectName": "HaziFeladat2",
-        "projectPath": "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj",
-        "packagesPath": "C:\\Users\\Szabó Attila\\.nuget\\packages\\",
-        "outputPath": "F:\\Archived\\CSharpGyakorlas\\CSharpGyakorlas2020-2021\\trunk\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\obj\\",
+        "projectPath": "C:\\Visual studio\\CSharpGyakorlas2020-2021-vegso\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\HaziFeladat2.csproj",
+        "packagesPath": "C:\\Users\\samu1\\.nuget\\packages\\",
+        "outputPath": "C:\\Visual studio\\CSharpGyakorlas2020-2021-vegso\\Hazi Feladat\\2020-12-05\\HaziFeladat2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Szabó Attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
